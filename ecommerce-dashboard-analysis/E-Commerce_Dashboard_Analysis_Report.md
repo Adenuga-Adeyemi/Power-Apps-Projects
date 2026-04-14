@@ -89,4 +89,3 @@ The documentation for this project, including this report, is available on GitHu
 [https://github.com/Adenuga-Adeyemi/ecommerce-dashboard-analysis](https://github.com/Adenuga-Adeyemi/ecommerce-dashboard-analysis)
 
 ---
-*Report prepared by Manus AI*
