@@ -70,7 +70,7 @@ The project outlines a step-by-step guide covering:
 ### Power BI Supervisor Dashboard
 ![Power BI Supervisor Dashboard](https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/blob/main/field-reporting-app/Power%20BI%20Dashboard.png)
 
-![Interact with the Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDI4YzIxMDItODE2Mi00YmY0LWFlZDItMmU3ZDk5YmFkM2Q4IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
+[Interact with the Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDI4YzIxMDItODE2Mi00YmY0LWFlZDItMmU3ZDk5YmFkM2Q4IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
 
 ## Source Article
 
