@@ -1,5 +1,5 @@
 # How to Build a Leave Approval Flow in Power Automate (for a Nigerian Organisation)
-![An Approval Flow](https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/blob/main/leave-approval-flow/Screenshot%202026-04-20%20190256.png)
+![An Approval Flow](https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/blob/main/leave-approval-flow/Digital%20Reporting%20App.jpg)
 
 
 ## Project Overview
