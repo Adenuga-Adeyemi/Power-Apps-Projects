@@ -1,5 +1,5 @@
 # How to Build a Leave Approval Flow in Power Automate (for a Nigerian Organisation)
-![https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/blob/main/leave-approval-flow/Screenshot%202026-04-20%20190256.png]
+!(https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/blob/main/leave-approval-flow/Screenshot%202026-04-20%20190256.png)
 ## Project Overview
 
 This project outlines the creation of a **fully automated leave approval system** using Microsoft 365 tools, specifically tailored for Nigerian organizations. The system aims to streamline the leave request process, moving away from informal methods like WhatsApp messages and verbal approvals to a structured, auditable, and professional workflow.
