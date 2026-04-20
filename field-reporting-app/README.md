@@ -70,6 +70,8 @@ The project outlines a step-by-step guide covering:
 ### Power BI Supervisor Dashboard
 ![Power BI Supervisor Dashboard](power_bi_supervisor_dashboard.webp)
 
+![Interact with the Power BI](https://app.powerbi.com/view?r=eyJrIjoiNDI4YzIxMDItODE2Mi00YmY0LWFlZDItMmU3ZDk5YmFkM2Q4IiwidCI6ImYzMzNmMDE4LWE3OTYtNGQ5Yy1iNmM4LThmY2RmYzAyNzEwYiJ9)
+
 ## Source Article
 
 [PHC Field Reporting App: A Complete Build Guide for Real-Time Community Health Data in Nigeria](https://medium.com/@adeyemi.da/phc-field-reporting-app-a-complete-build-guide-for-real-time-community-health-data-in-nigeria-f03146677fe9)
