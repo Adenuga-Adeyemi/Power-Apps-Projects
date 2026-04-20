@@ -1,5 +1,7 @@
 # PHC Field Reporting App: A Complete Build Guide for Real-Time Community Health Data in Nigeria
 
+![Reporting App](https://github.com/Adenuga-Adeyemi/Power-Apps-Projects/blob/main/field-reporting-app/Digital%20Reporting%20App.jpg)
+
 ## Project Overview
 
 This project details the development of a **PHC Field Reporting App** using Microsoft Power Apps, designed to revolutionize community health data collection in rural Nigeria. The app aims to replace traditional paper-based Health Management Information System (HMIS) forms with a digital solution, enabling real-time data capture and reporting by Community Health Workers (CHWs).
